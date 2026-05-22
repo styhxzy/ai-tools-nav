@@ -4,20 +4,12 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Search, Menu, X, User } from 'lucide-react';
-import { useAuth, UserButton } from '@clerk/nextjs';
+import { useAuth } from '@/components/auth/AuthProvider';
 import { cn } from '@/lib/utils';
 import { NAV_LINKS, SITE } from '@/lib/constants';
 import { MobileNav } from './MobileNav';
 import { SearchCommand } from './SearchCommand';
 import { ThemeToggle } from './ThemeToggle';
-
-function useClerkSafe() {
-  try {
-    return useAuth();
-  } catch {
-    return { isSignedIn: false };
-  }
-}
 
 export function Header() {
   const [mounted, setMounted] = useState(false);
@@ -25,7 +17,7 @@ export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const pathname = usePathname();
-  const { isSignedIn } = useClerkSafe();
+  const { isLoggedIn } = useAuth();
 
   useEffect(() => { setMounted(true); }, []);
   useEffect(() => {
@@ -129,20 +121,15 @@ export function Header() {
               <ThemeToggle />
               {/* User */}
               <div className="flex items-center">
-                {isSignedIn ? (
-                  <UserButton
-                    appearance={{
-                      elements: {
-                        avatarBox: 'w-8 h-8 rounded-lg',
-                        userButtonPopoverCard: 'shadow-xl border border-gray-100',
-                      },
-                    }}
-                  />
+                {isLoggedIn ? (
+                  <Link href="/workspace"
+                    className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-accent bg-accent-light rounded-lg transition-colors">
+                    <User className="w-4 h-4" />
+                    <span className="hidden sm:inline">工作台</span>
+                  </Link>
                 ) : (
-                  <Link
-                    href="/sign-in"
-                    className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors"
-                  >
+                  <Link href="/auth/login"
+                    className="flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors">
                     <User className="w-4 h-4" />
                     <span className="hidden sm:inline">登录</span>
                   </Link>

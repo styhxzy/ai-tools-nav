@@ -2,7 +2,7 @@ export const SITE = {
   name: 'AI工具导航',
   nameEn: 'AI Tools Nav',
   description: '发现最适合大学生的AI效率工具。涵盖AI聊天、写作、PPT、编程、英语、视频、绘画、效率工具。',
-  url: 'https://aitools.example.com',
+  url: 'https://ai-workspace.cn',
   locale: 'zh_CN',
   author: 'AI工具导航团队',
 } as const;
