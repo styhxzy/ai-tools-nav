@@ -1,0 +1,72 @@
+{
+  "slug": "cursor",
+  "name": "Cursor",
+  "tagline": "AI原生代码编辑器，编程学习的最佳伙伴",
+  "description": "Cursor是基于VS Code的AI编程编辑器，集成Claude和GPT模型，支持自然语言编程、代码补全和调试，是大学生学习编程的利器。",
+  "longDescription": "Cursor是一款AI原生的代码编辑器，基于VS Code深度定制，内置了先进的AI编程助手。它支持多种AI模型，可以理解整个代码库的上下文，提供精准的代码补全和智能建议。\n\n对于计算机专业的大学生来说，Cursor不仅是编程工具，更是一位24小时在线的编程导师。",
+  "logo": "/tools/cursor.png",
+  "category": "ai-coding",
+  "pricing": "freemium",
+  "websiteUrl": "https://cursor.sh",
+  "rating": 4.9,
+  "reviewCount": 15200,
+  "features": [
+    {
+      "title": "自然语言编程",
+      "description": "用中文描述需求，AI自动生成代码，降低编程入门门槛",
+      "icon": "MessageSquare"
+    },
+    {
+      "title": "智能代码补全",
+      "description": "基于上下文的精准代码补全，支持多行补全和函数生成",
+      "icon": "Sparkles"
+    },
+    {
+      "title": "代码库理解",
+      "description": "AI理解整个项目结构，提供全局视角的编程建议",
+      "icon": "FolderTree"
+    },
+    {
+      "title": "实时Debug",
+      "description": "选中错误信息，AI自动分析并修复bug",
+      "icon": "Bug"
+    },
+    {
+      "title": "代码审查",
+      "description": "AI Review代码质量，给出优化建议和最佳实践",
+      "icon": "CheckCircle"
+    },
+    {
+      "title": "终端集成",
+      "description": "内置AI终端，自然语言描述操作即可执行命令",
+      "icon": "Terminal"
+    }
+  ],
+  "prosCons": {
+    "pros": [
+      "对中文编程指令支持好，适合国内学生",
+      "基于VS Code，熟悉的界面无需额外学习",
+      "AI代码生成准确率高，上下文理解能力强",
+      "免费版每月2000次AI调用，足够日常使用",
+      "Composer功能支持多文件编辑和重构",
+      "社区活跃，插件生态丰富"
+    ],
+    "cons": [
+      "Pro版20美元/月，对部分学生可能较贵",
+      "大型项目中AI响应可能偶有延迟",
+      "需要稳定的网络连接",
+      "有时AI建议需要人工校验"
+    ]
+  },
+  "tutorial": "## Cursor快速上手\n\n### 1. 安装配置\n\n从 [cursor.sh](https://cursor.sh) 下载安装，支持Windows/Mac/Linux。\n\n### 2. 核心功能\n\n#### Tab补全（Tab）\n\n写代码时按Tab键，AI自动补全当前行或多行代码。\n\n#### 内联编辑（Ctrl+K）\n\n选中代码后按Ctrl+K，输入修改要求，AI直接修改。\n\n#### Chat对话（Ctrl+L）\n\n打开AI对话面板，可以问任何编程问题。\n\n#### Composer（Ctrl+I）\n\n同时编辑多个文件，适合重构和添加新功能。\n\n### 3. 学生使用场景\n\n- **写作业**: \"用Python写一个学生成绩管理系统\"\n- **学算法**: \"解释这段代码的时间复杂度\"\n- **Debug**: 选中错误信息，Ctrl+K输入\"修复这个bug\"\n- **写文档**: \"为这个函数生成注释\"",
+  "isHot": true,
+  "weight": 98,
+  "updatedAt": "2026-05-22",
+  "tags": ["代码编辑器", "AI编程", "VS Code", "代码补全", "编程学习"],
+  "similarTools": ["copilot", "windsurf", "cline", "chatgpt"],
+  "seo": {
+    "title": "Cursor - AI原生代码编辑器 | AI工具导航",
+    "description": "Cursor是集成AI的代码编辑器，支持自然语言编程、智能补全和实时Debug。适合大学生编程入门和提高开发效率。",
+    "keywords": ["Cursor", "AI编辑器", "代码编辑器", "AI编程", "编程助手", "代码补全"]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "chatgpt",
+  "name": "ChatGPT",
+  "tagline": "OpenAI出品的全能AI助手，全球最流行的AI对话工具",
+  "description": "ChatGPT是OpenAI开发的大型语言模型，支持自然对话、写作、编程、翻译等多种任务，是大学生最常用的AI工具之一。",
+  "longDescription": "ChatGPT是由OpenAI开发的大型语言模型聊天机器人，基于GPT-4架构。它能够理解和生成自然语言，帮助用户完成写作、编程、学习、翻译等各种任务。\n\n作为目前全球最流行的AI工具，ChatGPT在大学生群体中广受欢迎。无论是写论文、做PPT、学英语还是学编程，ChatGPT都能提供有力支持。",
+  "logo": "/tools/chatgpt.png",
+  "category": "ai-writing",
+  "pricing": "freemium",
+  "websiteUrl": "https://chat.openai.com",
+  "rating": 4.8,
+  "reviewCount": 12580,
+  "features": [
+    {
+      "title": "智能对话",
+      "description": "支持多轮自然语言对话，理解上下文，回答各种问题",
+      "icon": "MessageCircle"
+    },
+    {
+      "title": "文本生成",
+      "description": "支持论文、文章、邮件、文案等多种文本类型的生成和润色",
+      "icon": "FileText"
+    },
+    {
+      "title": "代码辅助",
+      "description": "支持多种编程语言的代码生成、解释、调试和优化",
+      "icon": "Code"
+    },
+    {
+      "title": "多语言翻译",
+      "description": "支持上百种语言的互译，翻译质量接近专业水平",
+      "icon": "Globe"
+    },
+    {
+      "title": "文件分析",
+      "description": "支持上传PDF、Word、Excel等文件进行分析和总结",
+      "icon": "FileSearch"
+    },
+    {
+      "title": "联网搜索",
+      "description": "支持实时联网搜索获取最新信息，保证答案时效性",
+      "icon": "Search"
+    }
+  ],
+  "prosCons": {
+    "pros": [
+      "功能全面，覆盖写作、编程、学习等多种场景",
+      "中文能力优秀，理解准确、表达流畅",
+      "免费版即可满足日常使用需求",
+      "支持插件和GPTs扩展功能",
+      "响应速度快，交互体验流畅",
+      "持续更新，能力不断提升"
+    ],
+    "cons": [
+      "免费版有使用次数限制",
+      "高峰期可能响应较慢",
+      "Plus会员需要每月20美元",
+      "偶尔会出现事实性错误，需要验证"
+    ]
+  },
+  "tutorial": "## 如何使用ChatGPT\n\n### 1. 注册账号\n\n访问 [chat.openai.com](https://chat.openai.com)，使用邮箱或Google账号注册。\n\n### 2. 选择模型\n\n- **GPT-4o**: 最新旗舰模型，综合能力最强\n- **GPT-4o mini**: 轻量版，速度更快，适合简单任务\n- **o1**: 推理模型，适合复杂数学和逻辑问题\n\n### 3. 使用技巧\n\n#### 论文写作\n\n```\n请帮我写一篇关于[主题]的论文大纲，要求包含摘要、引言、文献综述、方法论、分析和结论。\n```\n\n#### 英语学习\n\n```\n请用英语和我对话，纠正我的语法错误，并给出改进建议。\n```\n\n#### 编程学习\n\n```\n请用通俗易懂的方式解释[概念]，并给出代码示例。\n```\n\n### 4. 进阶技巧\n\n- **角色扮演**: \"你是一个资深的XX专家，请帮我...\"\n- **分步骤提问**: 将复杂问题拆解成多个小问题\n- **要求引用**: \"请提供信息来源\"\n- **格式控制**: \"请以表格形式输出...\"",
+  "isHot": true,
+  "weight": 100,
+  "updatedAt": "2026-05-20",
+  "tags": ["聊天机器人", "写作助手", "编程助手", "OpenAI", "GPT"],
+  "similarTools": ["claude", "gemini", "deepseek", "kimi"],
+  "seo": {
+    "title": "ChatGPT - AI写作与对话工具 | AI工具导航",
+    "description": "ChatGPT是OpenAI出品的全能AI助手，支持论文写作、代码生成、英语学习等场景。免费版即可满足大学生日常使用需求。",
+    "keywords": ["ChatGPT", "OpenAI", "AI聊天", "GPT-4", "AI写作", "AI对话"]
+  }
+}

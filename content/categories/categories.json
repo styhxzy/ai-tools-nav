@@ -1,0 +1,10 @@
+[
+  {"slug":"ai-chat","name":"AI聊天","nameEn":"AI Chat","description":"智能对话助手，帮你答疑解惑、头脑风暴、日常交流","icon":"MessageCircle","gradient":"from-green-500 to-emerald-500","toolCount":0,"seo":{"title":"AI聊天工具推荐","description":"精选AI聊天助手","keywords":["AI聊天","聊天机器人","AI对话"]}},
+  {"slug":"ai-writing","name":"AI写作","nameEn":"AI Writing","description":"AI写作工具帮你快速生成文章、论文、文案等内容","icon":"PenLine","gradient":"from-blue-500 to-indigo-500","toolCount":0,"seo":{"title":"AI写作工具推荐","description":"精选AI写作工具","keywords":["AI写作","论文写作","文案生成"]}},
+  {"slug":"ai-ppt","name":"AI PPT","nameEn":"AI PPT","description":"AI驱动的PPT演示文稿生成工具，一键生成精美幻灯片","icon":"Presentation","gradient":"from-violet-500 to-purple-500","toolCount":0,"seo":{"title":"AI PPT工具推荐","description":"精选AI PPT生成工具","keywords":["AI PPT","演示文稿","幻灯片"]}},
+  {"slug":"ai-coding","name":"AI编程","nameEn":"AI Coding","description":"AI编程助手帮你写代码、Debug、学习编程","icon":"Code2","gradient":"from-emerald-500 to-teal-500","toolCount":0,"seo":{"title":"AI编程工具推荐","description":"精选AI编程工具","keywords":["AI编程","代码生成","编程助手"]}},
+  {"slug":"ai-english","name":"AI英语","nameEn":"AI English","description":"AI英语学习工具助你练口语、写作文、背单词","icon":"Languages","gradient":"from-rose-500 to-pink-500","toolCount":0,"seo":{"title":"AI英语学习工具推荐","description":"精选AI英语学习工具","keywords":["AI英语","英语学习","口语练习"]}},
+  {"slug":"ai-video","name":"AI视频","nameEn":"AI Video","description":"AI视频生成与编辑工具，文字转视频、智能剪辑","icon":"Video","gradient":"from-orange-500 to-red-500","toolCount":0,"seo":{"title":"AI视频工具推荐","description":"精选AI视频生成与编辑工具","keywords":["AI视频","视频生成","视频编辑"]}},
+  {"slug":"ai-drawing","name":"AI绘画","nameEn":"AI Drawing","description":"AI绘画工具根据文字描述生成精美图片","icon":"Palette","gradient":"from-amber-500 to-orange-500","toolCount":0,"seo":{"title":"AI绘画工具推荐","description":"精选AI绘画和图像生成工具","keywords":["AI绘画","AI绘图","图像生成"]}},
+  {"slug":"ai-productivity","name":"AI效率工具","nameEn":"AI Productivity","description":"AI效率工具帮你管理任务、整理笔记、自动化工作流","icon":"Zap","gradient":"from-cyan-500 to-sky-500","toolCount":0,"seo":{"title":"AI效率工具推荐","description":"精选AI效率工具","keywords":["AI效率","效率工具","笔记管理"]}}
+]

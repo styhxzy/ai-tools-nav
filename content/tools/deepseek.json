@@ -1,0 +1,72 @@
+{
+  "slug": "deepseek",
+  "name": "DeepSeek",
+  "tagline": "国产高性能AI助手，免费使用，中文能力出色",
+  "description": "DeepSeek是深度求索公司开发的AI助手，免费使用，中文理解和生成能力出色，特别适合中文写作、翻译和学习场景。",
+  "longDescription": "DeepSeek由中国深度求索公司开发，以高性能和免费策略在大学生群体中迅速流行。其最新模型在多项基准测试中达到国际领先水平，中文能力尤为突出。\n\n对于预算有限的大学生来说，DeepSeek的完全免费策略极具吸引力，且性能不输付费产品。",
+  "logo": "/tools/deepseek.png",
+  "category": "ai-writing",
+  "pricing": "free",
+  "websiteUrl": "https://chat.deepseek.com",
+  "rating": 4.7,
+  "reviewCount": 18500,
+  "features": [
+    {
+      "title": "完全免费",
+      "description": "所有功能完全免费，无使用次数限制",
+      "icon": "Heart"
+    },
+    {
+      "title": "中文优化",
+      "description": "对中文语境深度优化，理解成语典故和网络用语",
+      "icon": "Languages"
+    },
+    {
+      "title": "长文本支持",
+      "description": "支持超长上下文，适合论文写作和文档分析",
+      "icon": "ScrollText"
+    },
+    {
+      "title": "联网搜索",
+      "description": "支持联网获取最新信息，提供准确答案",
+      "icon": "Globe"
+    },
+    {
+      "title": "文件上传",
+      "description": "支持上传多种格式文件进行分析和提问",
+      "icon": "Upload"
+    },
+    {
+      "title": "推理能力强",
+      "description": "擅长数学、编程和逻辑推理等复杂任务",
+      "icon": "Brain"
+    }
+  ],
+  "prosCons": {
+    "pros": [
+      "完全免费，无任何使用限制",
+      "中文能力顶级，理解准确表达自然",
+      "支持超长上下文（128K tokens）",
+      "推理能力强，数学和编程表现优秀",
+      "响应速度快，服务稳定",
+      "App体验好，支持语音输入"
+    ],
+    "cons": [
+      "功能相对ChatGPT较为基础",
+      "不支持插件和自定义GPTs",
+      "高峰期偶尔出现排队等待",
+      "国际知名度相对较低"
+    ]
+  },
+  "tutorial": "## DeepSeek使用指南\n\n### 1. 快速开始\n\n访问 [chat.deepseek.com](https://chat.deepseek.com) 或下载App，手机号注册即可使用。\n\n### 2. 核心功能\n\n- **对话模式**: 日常问答和写作\n- **深度思考模式**: 复杂推理和数学问题\n- **联网搜索**: 手动开启获取最新信息\n\n### 3. 学生实用技巧\n\n#### 论文辅助\n```\n我是一名大二学生，正在写关于[主题]的课程论文。请帮我：\n1. 列出论文大纲\n2. 推荐5篇相关参考文献\n3. 写出引言部分的初稿\n```\n\n#### 代码学习\n```\n请用Python写一个[功能]的代码，要求：\n1. 每行代码都有中文注释\n2. 包含错误处理\n3. 附带使用示例\n```",
+  "isHot": true,
+  "weight": 96,
+  "updatedAt": "2026-05-21",
+  "tags": ["DeepSeek", "国产AI", "免费AI", "中文写作", "深度求索"],
+  "similarTools": ["chatgpt", "claude", "kimi", "doubao"],
+  "seo": {
+    "title": "DeepSeek - 免费国产AI助手 | AI工具导航",
+    "description": "DeepSeek是深度求索出品的免费AI助手，中文能力出色，支持论文写作、代码生成和联网搜索。完全免费，大学生首选。",
+    "keywords": ["DeepSeek", "深度求索", "免费AI", "国产AI", "中文AI", "AI助手"]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "gamma",
+  "name": "Gamma",
+  "tagline": "AI一键生成精美PPT演示文稿，效率提升10倍",
+  "description": "Gamma是领先的AI演示文稿生成工具，输入主题即可一键生成精美PPT，支持智能排版和多媒体嵌入，是大学生做课堂展示的首选。",
+  "longDescription": "Gamma是一款革命性的AI演示文稿工具，它彻底改变了传统的PPT制作方式。只需输入主题或大纲，AI即可在几分钟内生成包含精美排版、配图和动画的完整演示文稿。\n\n对于经常需要做课堂展示、项目答辩和社团汇报的大学生来说，Gamma可以节省大量PPT制作时间。",
+  "logo": "/tools/gamma.png",
+  "category": "ai-ppt",
+  "pricing": "freemium",
+  "websiteUrl": "https://gamma.app",
+  "rating": 4.6,
+  "reviewCount": 7800,
+  "features": [
+    {
+      "title": "一键生成PPT",
+      "description": "输入主题或上传文档，AI自动生成完整演示文稿",
+      "icon": "Wand"
+    },
+    {
+      "title": "智能排版",
+      "description": "AI自动选择最佳布局和配色方案，保证视觉专业",
+      "icon": "Layout"
+    },
+    {
+      "title": "多媒体嵌入",
+      "description": "支持嵌入视频、图表、GIF等多种媒体形式",
+      "icon": "Image"
+    },
+    {
+      "title": "实时协作",
+      "description": "支持多人同时编辑和评论，方便小组作业",
+      "icon": "Users"
+    },
+    {
+      "title": "模板丰富",
+      "description": "内置数百个专业模板，覆盖学术、商业等多种场景",
+      "icon": "Palette"
+    },
+    {
+      "title": "导出灵活",
+      "description": "支持导出为PPTX、PDF、在线链接等多种格式",
+      "icon": "Download"
+    }
+  ],
+  "prosCons": {
+    "pros": [
+      "生成速度快，3分钟完成一份完整PPT",
+      "设计感强，AI排版比手动制作更专业",
+      "免费版功能丰富，可满足基本需求",
+      "支持中文输入和中文模板",
+      "可以上传Word文档直接转PPT",
+      "支持在线演示，无需下载"
+    ],
+    "cons": [
+      "免费版有水印和页数限制",
+      "高度定制化需求时灵活性不足",
+      "复杂数据图表支持有限",
+      "导出PPTX后格式可能略有偏差"
+    ]
+  },
+  "tutorial": "## Gamma使用教程\n\n### 1. 快速生成PPT\n\n1. 访问 [gamma.app](https://gamma.app) 注册账号\n2. 点击「新建」→「从主题生成」\n3. 输入演示主题，如\"人工智能发展史\"\n4. AI自动生成大纲，你可以编辑调整\n5. 选择喜欢的主题风格和配色\n6. 点击生成，等待AI创作\n\n### 2. 从文档生成\n\n1. 选择「从文档导入」\n2. 上传Word文档或粘贴文本\n3. AI自动提取要点并生成PPT\n\n### 3. 编辑优化\n\n- **修改内容**: 点击任意文本直接编辑\n- **更换布局**: 右侧面板选择不同布局\n- **添加图片**: 使用AI图片搜索或上传本地图片\n- **调整主题**: 一键切换整体配色方案",
+  "isHot": true,
+  "weight": 92,
+  "updatedAt": "2026-05-15",
+  "tags": ["PPT生成", "演示文稿", "幻灯片", "AI排版", "课堂展示"],
+  "similarTools": ["beautiful-ai", "tome", "chatgpt"],
+  "seo": {
+    "title": "Gamma - AI PPT生成工具 | AI工具导航",
+    "description": "Gamma是领先的AI演示文稿工具，一键生成精美PPT。支持智能排版、模板丰富、导出灵活，大学生课堂展示首选。",
+    "keywords": ["Gamma", "AI PPT", "演示文稿", "PPT生成", "AI幻灯片", "课堂展示"]
+  }
+}

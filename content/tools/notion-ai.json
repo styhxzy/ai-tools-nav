@@ -1,0 +1,36 @@
+{
+  "slug": "notion-ai",
+  "name": "Notion AI",
+  "tagline": "AI增强的笔记与知识管理工具，学习效率翻倍",
+  "description": "Notion AI集成在Notion笔记中，提供AI写作、摘要、翻译等功能，帮助大学生高效管理学习笔记和知识体系。",
+  "longDescription": "Notion AI是Notion办公平台内置的AI功能，它将强大的AI能力融入到日常的笔记记录、知识管理和项目规划中，让学习和工作效率大幅提升。",
+  "logo": "/tools/notion-ai.png",
+  "category": "ai-productivity",
+  "pricing": "freemium",
+  "websiteUrl": "https://www.notion.so/product/ai",
+  "rating": 4.5,
+  "reviewCount": 9200,
+  "features": [
+    {"title": "AI写作辅助", "description": "在笔记中直接使用AI续写、改写和润色文字", "icon": "PenLine"},
+    {"title": "智能摘要", "description": "一键生成长文档的摘要和要点提炼", "icon": "FileText"},
+    {"title": "知识管理", "description": "AI帮助组织和关联笔记，构建知识网络", "icon": "Network"},
+    {"title": "任务规划", "description": "智能生成学习计划和任务清单", "icon": "CheckSquare"},
+    {"title": "多语言翻译", "description": "笔记内直接翻译，支持多种语言", "icon": "Languages"},
+    {"title": "数据库智能", "description": "AI分析和总结数据库内容，生成报告", "icon": "Database"}
+  ],
+  "prosCons": {
+    "pros": ["与Notion深度集成，无需切换工具", "笔记+AI结合，学习场景覆盖全面", "学生认证免费使用基础版", "多端同步，手机也能用", "模板社区丰富，开箱即用"],
+    "cons": ["AI功能需要额外付费（10美元/月）", "纯中文场景部分功能表现一般", "重度使用时页面加载偏慢", "网络环境要求较高"]
+  },
+  "tutorial": "## Notion AI使用教程\n\n### 1. 开启AI功能\n\n1. 注册Notion账号（学生邮箱可获教育优惠）\n2. 在设置中开启Notion AI\n3. 在任何页面按空格键即可激活AI\n\n### 2. 学生常用场景\n\n- **课堂笔记**: 输入关键词 → AI帮你展开整理\n- **阅读总结**: 粘贴文章 → AI生成摘要和要点\n- **复习提纲**: 整理笔记 → AI生成复习大纲\n- **论文大纲**: 输入主题 → AI生成论文结构",
+  "isHot": false,
+  "weight": 85,
+  "updatedAt": "2026-05-10",
+  "tags": ["笔记", "知识管理", "效率工具", "Notion", "学习助手"],
+  "similarTools": ["mem-ai", "chatgpt", "notion"],
+  "seo": {
+    "title": "Notion AI - AI笔记与知识管理 | AI工具导航",
+    "description": "Notion AI集成AI写作、摘要、翻译功能于笔记中，帮助大学生高效管理学习笔记和知识体系。学生认证有教育优惠。",
+    "keywords": ["Notion AI", "笔记", "知识管理", "学习工具", "效率工具", "AI笔记"]
+  }
+}

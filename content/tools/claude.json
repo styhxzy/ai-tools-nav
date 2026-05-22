@@ -1,0 +1,71 @@
+{
+  "slug": "claude",
+  "name": "Claude",
+  "tagline": "Anthropic出品的深度推理AI助手，学术研究利器",
+  "description": "Claude是Anthropic开发的高性能AI助手，擅长深度分析、学术写作和复杂推理，特别适合研究生和学术工作者使用。",
+  "longDescription": "Claude由Anthropic公司开发，以其强大的推理能力、长上下文窗口和安全对齐著称。Claude在学术写作、论文分析和复杂问题推理方面表现尤为出色。\n\n对于需要进行深度学术研究的大学生和研究生来说，Claude是一个极佳的选择。它支持超长文档分析，可以一次性处理整本书的内容。",
+  "logo": "/tools/claude.png",
+  "category": "ai-writing",
+  "pricing": "freemium",
+  "websiteUrl": "https://claude.ai",
+  "rating": 4.7,
+  "reviewCount": 8960,
+  "features": [
+    {
+      "title": "长文档分析",
+      "description": "支持200K上下文窗口，可一次性分析整本书或长篇论文",
+      "icon": "BookOpen"
+    },
+    {
+      "title": "深度推理",
+      "description": "擅长复杂逻辑推理和多步骤问题求解，适合学术研究",
+      "icon": "Brain"
+    },
+    {
+      "title": "学术写作",
+      "description": "支持学术论文写作、文献综述、研究方法设计等场景",
+      "icon": "GraduationCap"
+    },
+    {
+      "title": "代码生成",
+      "description": "生成高质量代码，支持代码审查和架构设计建议",
+      "icon": "Terminal"
+    },
+    {
+      "title": "多文件处理",
+      "description": "同时分析多个文件，支持交叉引用和综合总结",
+      "icon": "Files"
+    },
+    {
+      "title": "数据可视化",
+      "description": "生成图表、思维导图等可视化内容辅助理解",
+      "icon": "BarChart"
+    }
+  ],
+  "prosCons": {
+    "pros": [
+      "推理能力顶尖，适合学术研究和复杂分析",
+      "200K超长上下文，可处理整本书级别的内容",
+      "输出质量高，表述清晰有条理",
+      "多文件同时处理能力强",
+      "安全对齐做得好，有害内容过滤严格"
+    ],
+    "cons": [
+      "免费版功能相对受限",
+      "不支持联网搜索",
+      "生成速度相比竞品略慢",
+      "国内访问可能受限"
+    ]
+  },
+  "tutorial": "## 如何使用Claude\n\n### 1. 注册账号\n\n访问 [claude.ai](https://claude.ai)，使用邮箱注册。\n\n### 2. 选择模型\n\n- **Claude Opus**: 最强模型，适合复杂学术研究\n- **Claude Sonnet**: 平衡版，日常使用首选\n- **Claude Haiku**: 轻量版，快速响应\n\n### 3. 学术使用技巧\n\n#### 论文分析\n\n上传PDF论文，直接提问：\n- \"请总结这篇论文的主要发现\"\n- \"这篇论文的方法论有什么优缺点？\"\n\n#### 文献综述\n\n上传多篇论文后：\n- \"请对比这几篇论文的研究方法和结论\"\n\n### 4. 必学技巧\n\n- **分段提问**: 将大问题拆解成子问题逐一讨论\n- **角色设定**: \"你是一名计算机科学教授...\"\n- **要求展开**: \"请详细展开第三点\"",
+  "isHot": true,
+  "weight": 95,
+  "updatedAt": "2026-05-18",
+  "tags": ["深度推理", "学术助手", "长文档", "Anthropic", "Claude"],
+  "similarTools": ["chatgpt", "gemini", "deepseek", "perplexity"],
+  "seo": {
+    "title": "Claude - 深度推理AI助手 | AI工具导航",
+    "description": "Claude是Anthropic开发的AI助手，擅长深度分析、学术写作和复杂推理。支持200K长文档，适合研究生学术研究使用。",
+    "keywords": ["Claude", "Anthropic", "AI助手", "学术写作", "深度推理", "长文档分析"]
+  }
+}
